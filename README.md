@@ -1,5 +1,5 @@
 # OCaml Projects Completed  #
-### Repository includes OCaml projects completed for CIS 120 Spring 2019 ### 
+### Repository includes OCaml projects completed for... ### 
 **Paint Gui** includes the following implmented functions:
 ```
 gctx.ml
@@ -17,6 +17,10 @@ assert.mli
 eventloop.ml
 eventloop.mli
 ```
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 1. TEst
      - hello
