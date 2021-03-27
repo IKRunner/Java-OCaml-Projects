@@ -1,3 +1,3 @@
 # OCaml Projects Completed for CIS 120 #
-Paint Gui
-* ds
+Markup : - [ ] An uncompleted task
+               - [x] A completed task
