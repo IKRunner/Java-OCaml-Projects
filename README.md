@@ -1,6 +1,6 @@
 # OCaml Projects Completed  #
 ### Repository includes OCaml projects completed for... ### 
-**Paint Gui** includes the following implmented functions:
+**\Paint Gui** includes the following implmented functions:
 ```
 gctx.ml
 gctx.mli
@@ -8,24 +8,10 @@ paint.ml
 widget.ml
 widget.mli
 ```
-
-Other functions include:
-
-```
-assert.ml
-assert.mli
-eventloop.ml
-eventloop.mli
-```
-
+Example Output:
 
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
-1. TEst
-     - hello
-       - fefefewfewf
+Code is designed to run in Codio environment. Contact me for additional dependencies
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
