@@ -1,4 +1,5 @@
-# OCaml Projects Completed for CIS 120 #
+# OCaml Projects Completed  #
+## Repository includes OCaml projects completed for CIS 120 Spring 2019## 
 **Paint Gui** includes the following implmented functions:
 ```
 gctx.ml
