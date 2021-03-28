@@ -10,7 +10,7 @@ widget.mli
 ```
 Example Output:
 
-![](images/gui.png)
+![](Images/gui.png)
 
 Code is designed to run in Codio environment. Contact me for additional dependencies
 
