@@ -10,7 +10,7 @@ widget.mli
 ```
 Example Output:
 
-<img src="Images/gui.png" width="100">
+<img src="Images/gui.png" width="400">
 
 
 Code is designed to run in Codio environment. Contact me for additional dependencies
