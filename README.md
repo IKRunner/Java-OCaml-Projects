@@ -10,7 +10,7 @@ widget.mli
 ```
 Example Output:
 
-<img src="Images/gui.png" "width>
+<img src="Images/gui.png">
 
 ![](Images/gui.png)
 
