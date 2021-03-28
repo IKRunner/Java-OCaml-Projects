@@ -1,6 +1,6 @@
 # OCaml Projects Completed  #
 ### Repository includes OCaml projects completed for... ### 
-**\Paint Gui** includes the following implmented functions:
+**Paint Gui** includes the following implmented functions:
 ```
 gctx.ml
 gctx.mli
@@ -10,8 +10,7 @@ widget.mli
 ```
 Example Output:
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![](images/gui.png)
 
 Code is designed to run in Codio environment. Contact me for additional dependencies
 
