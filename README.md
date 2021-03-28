@@ -1,5 +1,5 @@
 # OCaml Projects Completed  #
-### Repository includes OCaml projects completed for... ### 
+Repository for Programming Languages and Techniques (CIS 120, Spring 2019 Upenn)  
 **Paint Gui** includes the following implmented functions:
 ```
 gctx.ml
@@ -10,7 +10,7 @@ widget.mli
 ```
 Example Output:
 
-<img src="Images/gui.png" width="100">
+<img src="Images/gui.png" width="300">
 
 
 Code is designed to run in Codio environment. Contact me for additional dependencies
