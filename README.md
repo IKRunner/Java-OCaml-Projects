@@ -13,5 +13,5 @@ Example Output:
 <img src="Images/gui.png" width="400">
 
 
-Code is designed to run in Codio environment. Contact me for additional dependencies
+Code is designed to run in Codio environment. Contact me for details
 
